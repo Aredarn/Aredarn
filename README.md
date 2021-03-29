@@ -19,3 +19,5 @@
 🔭 I’m currently working on a lot of things
 
 ⚡ Fun fact: I love sunsets and long bike rides to chill after a day of programming.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aredarn&show_icons=true&theme=synthwave)
