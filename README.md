@@ -1,7 +1,7 @@
 ### Hi there 👋
 👨‍💼 About me: 
 - 👋 Hi, I’m Martin Mészáros from Hungary
-- 🌱 I’m currently learning C# as my main programming language(In the meantime I have 2 years of experience in C#). My side languages are: HTML, CSS and MYSQL. 
+- 🌱 I’m currently learning C# as my main programming language(In the meantime I have 3 years of experience in C#). My side languages are: HTML, CSS and MYSQL. 
 - 💡 Besides programming I learn pixel art and photo manipulation. I have 4 years of experience in computer assembly. 
 - 📊 I'm maximalist, creative, exact and talkative. 
 - 📫 How to reach me :
@@ -15,9 +15,8 @@
   
 ⚙️ Projects:
   - Photo copier and renamer program (C# FORM)
-  - Android GPS APP (C# Xamarin)
-  - Pixel Space Shooter (Unity)
-  - Platforms to Space (Unity)
+  - HorsePower & Kilowatt converter (C# Form)
+  - Japanese Bike catalog (Android xamarin)
 
 🔭 I’m currently working on a lot of things
 
