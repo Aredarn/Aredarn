@@ -1,7 +1,7 @@
 ### Hi there 👋
 👨‍💼 About me: 
 - 👋 Hi, I’m Martin Mészáros from Hungary
-- 🌱 I’m currently learning C# as my main programming language(At the moment I have 3 years of experience in C#). My side languages are: HTML, CSS, MYSQL and Java. 
+- 🌱 I’m currently learning C#, JAVA, HTML, CSS and MYSQL. 
 - 💡 I have 4 years of experience in computer assembly. 
 - 📊 I'm maximalist, creative, exact and talkative. 
 - 📫 How to reach me :
@@ -18,7 +18,6 @@
 ⚙️ Projects:
   - Photo copier and renamer program (C# FORM)
   - HorsePower & Kilowatt converter (C# Form)
-  - Japanese Bike catalog 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aredarn&show_icons=true&theme=merko) 
 
