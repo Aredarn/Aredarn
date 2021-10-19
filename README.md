@@ -20,6 +20,3 @@
   - HorsePower & Kilowatt converter (C# Form)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aredarn&show_icons=true&theme=merko) 
-
-
-🔭 I’m currently a student and a freelancer Android app developer. 
