@@ -17,10 +17,9 @@
   
 ⚙️ Projects:
    Desktop
+   
       - Photo copier and renamer program (C# FORM)
-      
       - Photo Size Sorter (C# FORM)
-      
       - HorsePower & Kilowatt converter (C# Form)
       
    WEB
