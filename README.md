@@ -18,9 +18,13 @@
 ⚙️ Projects:
    Desktop
       - Photo copier and renamer program (C# FORM)
+      
       - Photo Size Sorter (C# FORM)
+      
       - HorsePower & Kilowatt converter (C# Form)
+      
    WEB
+   
       - Böröndi Computer website (HTML, CSS, JAVASCRIPT)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aredarn&show_icons=true&theme=merko) 
