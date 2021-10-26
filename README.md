@@ -16,6 +16,7 @@
   - I graduated high school in 2021 with a computer system maintenance profession
   
 ⚙️ Projects:
+
    Desktop
    
       - Photo copier and renamer program (C# FORM)
