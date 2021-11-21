@@ -25,6 +25,6 @@
       
    WEB
    
-      - Böröndi Computer website (HTML, CSS, JAVASCRIPT)
+      - Böröndi Computer website (HTML, CSS, JAVASCRIPT)  [www.borondicomputer.hu]
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aredarn&show_icons=true&theme=merko) 
