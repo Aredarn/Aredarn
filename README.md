@@ -1,13 +1,4 @@
 ### Hi there 👋
-👨‍💼 About me: 
-- 👋 Hi, I’m Martin Mészáros from Hungary
-- 🌱 I’m currently learning C#, JAVA, HTML, CSS and MYSQL. 
-- 💡 I have 4 years of experience in computer assembly. 
-- 📊 I'm maximalist, creative, exact and talkative. 
-- 📫 How to reach me :
-   - 📧 meszaros.martin986@gmail.com
-   - 🐦 @MszrosMartin12
-   - 📷 @mszmrtn
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aredarn&layout=compact&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
