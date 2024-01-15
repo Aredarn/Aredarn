@@ -21,6 +21,7 @@
       - Böröndi Computer website (HTML, CSS, JAVASCRIPT)  [www.borondicomputer.hu]
 
   Mobile
+  
       - Motorbike catalog (Java)
       
 
