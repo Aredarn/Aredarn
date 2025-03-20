@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hello traveller! I'm Aredarn</h1>
+<h1 align="center">Hello traveller! I'm Martin</h1>
 <h3 align="center">A Fullstack WebDev from Hungary with an addiction in petrol engines and racing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aredarn&label=Profile%20views&color=0e75b6&style=flat" alt="aredarn" /> </p>
