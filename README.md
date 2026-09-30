@@ -5,17 +5,9 @@
 
 
 
-## The TrackPro ecosystem
+## The TrackPro ecosystem - made by me!
 
 One domain — motorsport telemetry — taken from firmware on the car to a board in the browser.
-
-[![TrackPro_ESP](https://img.shields.io/badge/TrackPro__ESP-C%2B%2B%20·%20ESP32-14161a?style=for-the-badge&logo=cplusplus&logoColor=white)](https://github.com/Aredarn/TrackPro_ESP)
-&nbsp;⟶&nbsp;
-[![TrackPro](https://img.shields.io/badge/TrackPro-Kotlin%20·%20Compose-14161a?style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Aredarn/TrackPro)
-&nbsp;⇢&nbsp;
-[![TrackBoard_Backend](https://img.shields.io/badge/TrackBoard__Backend-.NET%2010%20·%20EF%20Core-14161a?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/Aredarn/TrackBoard_Backend)
-&nbsp;⟵&nbsp;
-[![TrackBoard_Web](https://img.shields.io/badge/TrackBoard__Web-Angular%2021-14161a?style=for-the-badge&logo=angular&logoColor=white)](https://github.com/Aredarn/TrackBoard_Web)
 
 ```mermaid
 flowchart LR
@@ -32,11 +24,6 @@ flowchart LR
     classDef built stroke:#14161a,stroke-width:2px
     class ESP,APP,API,WEB built
 ```
-
-> **The phone is the source of truth.** It mirrors leaderboard-eligible sessions up to the
-> server and restores an account's tracks and sessions back down onto a new device. Auth with
-> token refresh, publication, photo upload, leaderboards, profile, JSON export and account
-> deletion are wired end to end on both sides.
 
 <details>
 <summary><b>TrackPro_ESP</b> — the firmware, C++ on ESP32 / ESP8266</summary>
