@@ -28,9 +28,9 @@ flowchart LR
 <details>
 <summary><b>TrackPro_ESP</b> — the firmware, C++ on ESP32 / ESP8266</summary>
 
-Reads a GPS module and pushes position, altitude, satellite count, speed and timestamp over
+Reads a GPS module and sends position, altitude, satellite count, speed and timestamp over
 Wi-Fi — TCP for the lowest latency, with a WebSocket variant alongside it. Ships a Python
-simulator so the phone app can be developed and tested with no rig on the bench.
+simulator so the phone app can be developed and tested with no rig in hand.
 
 → [github.com/Aredarn/TrackPro_ESP](https://github.com/Aredarn/TrackPro_ESP)
 </details>
@@ -48,14 +48,14 @@ the phone's own receiver — so nothing in the app may assume the sample rate of
 
 It is also the TrackBoard client: sign-in with token refresh, background sync of
 leaderboard-eligible sessions, photo upload, and a restore path that rebuilds an account's
-tracks and sessions on a new phone. **The phone is the source of truth for the whole
+tracks and sessions on a new phone. **The phone is the main source of the whole
 ecosystem.**
 
 → [github.com/Aredarn/TrackPro](https://github.com/Aredarn/TrackPro)
 </details>
 
 <details>
-<summary><b>TrackBoard_Backend</b> — the API, .NET 10 and PostgreSQL</summary>
+<summary><b>TrackBoard_Backend</b> — the backend API, .NET 10 and PostgreSQL</summary>
 
 Drivers publish the tracks they build, upload a session's laps, and compare best laps on a
 public per-track leaderboard. ASP.NET Core on EF Core 10 and PostgreSQL, deployed on Render.
@@ -73,7 +73,7 @@ records maps onto it yet.
 </details>
 
 <details>
-<summary><b>TrackBoard_Web</b> — the board, Angular 21 with no UI library</summary>
+<summary><b>TrackBoard_Web</b> — the webpage for events, Angular 21 </summary>
 
 Public: every published track with its outline drawn from driver-published GPS points, a
 best-lap classification per track on a shareable link, and a page per driver. Signed in:
